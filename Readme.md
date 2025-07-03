@@ -35,7 +35,7 @@ The **Asset Management Portal** helps organizations:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/asset-management-portal.git
+git clone https://github.com/madhusai-official-09/Asset-Management-Portal-main.git
 
 # Navigate to the project folder
 cd asset-management-portal
